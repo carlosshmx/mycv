@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #26b89f;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+header{
+    text-align: center;
+    background-image: url("/img/binary-code-matrix-background-wide-banner-blue-106448280.jpg");
+    background-size: contain;
+    background-repeat: repeat-x;
+    padding-top: 10px;
+    color: #26b89f;
+}
+
+h1{
+    color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.navLink{
+    color: #77d1c2;
+    font-size: 2rem;
+
+}
+
+.profilePicture{
+    width: 15rem;
+    border-radius: 50%;
+}
+
+span{
+    font-style: bold;
+}
+
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+span{
+    font-weight: bold;
+    color: aliceblue;
+}
+
+article{
+    text-align: center;
+}
+
+article img{
+    width: 300px;
+}
+
+footer{
+    text-align: center;
+    font-size: 3rem;
+    color:#77d1c2;
+}
